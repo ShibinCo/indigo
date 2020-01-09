@@ -1,9 +1,9 @@
 # main text of home
 name: Muhammed Shibin
-bio: mail@shibin.co
+bio: Workflow Architect
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Workflow Architect
 
 # if it's an external image, update below for true
 # better with square images
@@ -42,12 +42,12 @@ instagram: shibin.co
 linkedin: shibinco
 # youtube: myyoutube
 # spotify: myspotify
-github: shibinco
+# github: shibinco
 # lastfm: mylastfm
-stackoverflow: 5859831/muhammed-shibin
+# stackoverflow: 5859831/muhammed-shibin
 # quora: userquora
 # reddit: username
-medium: shibinco
+# medium: shibinco
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: mail@shibin.co
